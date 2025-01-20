@@ -1,8 +1,6 @@
 Date of Birth: 1946, Moscow, Russia.
 
-Education:
-
-Moscow Institute of Physics and Technology (1964-1970), MSc in Electronic Engineering. He was awarded a Ph.D. in the field of electromagnetics and antennas.
+Education: Moscow Institute of Physics and Technology (1964-1970), MSc in Electronic Engineering. He was awarded a Ph.D. in the field of electromagnetics and antennas.
 
 Career Stages
 

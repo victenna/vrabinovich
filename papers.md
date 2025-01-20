@@ -1,4 +1,4 @@
-1. Statistical evaluation of some parameters of antenna arrays with electronic beam control, Journal of Radio Engineering and Electronics,1971,12, pp.2188-2192.
+1. Statistical evaluation of some parameters of antenna arrays with electronic beam control, Journal of Radio Engineering and Electronics,1971,12, pp.2188-2192.(https://github.com/victenna/My-web/blob/main/Papers/1_Statistical%20evaluation%20of%20some%20parameters....pdf)
 
 2. Radiation pattern of an antenna array with a given number of faulty elements, Journal of Radio Engineering and Electronics,1973, 4, pp.713-716/a>
 

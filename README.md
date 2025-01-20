@@ -2,7 +2,7 @@
 
 ## Victor Rabinovich
 
-[Научные работы](papers.md) | [Патенты](patents.md) | [Книги](books.md) | [Прототипы](prototypes.md) | [Pygame](pygame.md) | [Уроки по Turtle](turtle_lessons.md) | [Видеопроекты](video_projects.md)
+[Scientific and technical articles](papers.md) | [Patents](patents.md) | [Books](books.md) | [Prototypes](prototypes.md) | [Pygame](pygame.md) | [Turtle_lessons](turtle_lessons.md) | [Video_projects](video_projects.md)
 
 Date of Birth: 1946, Moscow, Russia.
 

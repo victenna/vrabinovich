@@ -1,6 +1,6 @@
 [1. Statistical evaluation of some parameters of antenna arrays with electronic beam control, Journal of Radio Engineering and Electronics,1971,12, pp.2188-2192](https://github.com/victenna/My-web/blob/main/Papers/1_Statistical%20evaluation%20of%20some%20parameters....pdf)
 
-2. Radiation pattern of an antenna array with a given number of faulty elements, Journal of Radio Engineering and Electronics,1973, 4, pp.713-716/a>
+[2. Radiation pattern of an antenna array with a given number of faulty elements, Journal of Radio Engineering and Electronics,1973, 4, pp.713-716] (https://github.com/victenna/My-web/blob/main/Papers/2_Radiation%20pattern%20of%20array%20with%20a%20given%20number%20of%20faulty%20elements.pdf)
 
 3. Statistical parameters of the antenna array’s radiation pattern in the presence of phase errors caused by the discretization of phase shifters, Journal of Radio Engineering and Electronics,1975, 4, pp.708-714
 

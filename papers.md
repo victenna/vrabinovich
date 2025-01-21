@@ -2,6 +2,8 @@
 
 ![Header Image](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Header.png)
 
+[Papers](papers.md) | [Patents](patents.md) | [Books](books.md) | [Prototypes](prototypes.md) | [Pygame](pygame.md) | [Turtle lessons](turtle_lessons.md) | [Video projects](video_projects.md)
+
 
 [1. Statistical evaluation of some parameters of antenna arrays with electronic beam control, Journal of Radio Engineering and Electronics,1971,12, pp.2188-2192](https://github.com/victenna/My-web/blob/main/Papers/1_Statistical%20evaluation%20of%20some%20parameters....pdf)
 

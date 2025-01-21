@@ -22,6 +22,7 @@ This book is designed for both educational and recreational purposes. Python, a 
 
 
 ![Cover of the Book](https://raw.githubusercontent.com/victenna/vrabinovich/main/Books/Image_6.png)
+Below is a link to a book where you can read about my family history.  
 
 
 

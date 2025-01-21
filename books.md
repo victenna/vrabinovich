@@ -22,6 +22,10 @@ https://online.fliphtml5.com/adzq/sxuk/#p=1 <br>
 
 ![Cover of the Book](https://raw.githubusercontent.com/victenna/vrabinovich/main/Books/Image_4.png)
 
+Animation is a method in which statically displayed images on a screen are replaced by each other so quickly that as a result, continuous motion is simulated. Each picture is called a frame. Each frame must differ slightly from the previous one, and the rapid display of frames one after the other creates the illusion of continuous motion. The frames change at a certain speed of about 12 or more frames per second so that a person can perceive them as animation. Modern films usually use 24 frames per second. In our book on programming in Python, written specifically for children, more than 25 animation projects using the simplest graphic library of the language: turtle graphics (turtle library) are presented. It is considered that the Turtle library is mainly intended for drawing geometric shapes and animations using standard built-in images of the library such as a square, circle, turtle, arrow (let's call these images basic primitives). However, this is not the case. The simple and understandable Turtle library for children contains commands that allow children to create excellent animation projects similar to those that can be implemented using the block programming language Scratch, which is widely used at present to teach children. We will learn how to extract from the internet the images we need for the project, learn how to enter them into the program, and control the movements of these images using the library's commands. To master the material of the book, it is necessary to get acquainted with the commands of the Turtle library (tables with the main commands of the library are presented at the end of the book) and also to study the basic functions of the Python language, such as loops, lists, variables, etc.Below is a link where you can familiarize yourself with the content of this book.
+
+https://online.fliphtml5.com/adzq/sdoh/#p=1
+
 
 
 

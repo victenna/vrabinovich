@@ -19,7 +19,7 @@
 
 [7. Evaluation of the array field distribution based on the spectral characteristics of the elements, Antennas magazine,1990, 3, 23-28](https://github.com/victenna/vrabinovich/blob/main/Papers/7_Spectral%20parameters%20of%20the%20array%20elements.pdf)
 
-[8. Small printed meander symmetrical and asymmetrical antenna performances, including the RF cable effect, in the 315 MHz frequency band, Microwave and optical technology letters, 2006, 9, pp. 1828-1833](
+[8. Small printed meander symmetrical and asymmetrical antenna performances, including the RF cable effect, in the 315 MHz frequency band, Microwave and optical technology letters, 2006, 9, pp. 1828-1833](https://github.com/victenna/vrabinovich/blob/main/Papers/8_Small%20printed%20meander.pdf)
 
 [9. Compact Planar Antennas for Short-Range Wireless Automotive Communication, IEEE Transactions on vehicular technology, 2006, 4, pp. 1425-1435.](https://github.com/victenna/vrabinovich/blob/main/Papers/8_Small%20printed%20meander.pdf)
 

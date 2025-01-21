@@ -15,6 +15,8 @@
 
 [5. Simplified algorithms of radiation pattern design for digital antenna array, Telecommunications and Radio Engineering, 1991, pp.63-66](https://github.com/victenna/vrabinovich/blob/main/Papers/5_Simplified%20algorithms%20of%20radiation%20pattern.pdf)
 
+[6. Digital antenna array with non-identical parameters of receiving elements, Аntenna-waveguide technology and radio wave propagation,1990,7, pp.63-66](https://github.com/victenna/vrabinovich/blob/main/Papers/6_Digital%20antenna%20array.pdf)
+
  
 
 6. Simplified algorithms of radiation pattern design for digital antenna array, Telecommunications and Radio Engineering, 1991, pp.63-66

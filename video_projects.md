@@ -9,11 +9,7 @@
 
 
 
-[![Dogs and Kids](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Dogs%20and%20kids.png)](https://www.youtu.be/watch?v=whoiHovNMFs) 
-[![Terrier Dogs](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Terrier%20dogs.png)](https://youtu.be/KkCjh5AozvA)
 
-[![Dogs and Kids](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Dogs%20and%20kids.png)](https://youtu.be/KkCjh5AozvA)
-[![Terrier Dogs](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Terrier%20dogs.png)](https://youtu.be/KkCjh5AozvA)
 
 
 

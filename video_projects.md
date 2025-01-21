@@ -2,7 +2,7 @@
 
 [Papers](papers.md) | [Patents](patents.md) | [Books](books.md) | [Prototypes](prototypes.md) | [Pygame](pygame.md) | [Turtle lessons](turtle_lessons.md) | [Video projects](video_projects.md)
 
-Все видео созданы с помощью программ искусственного интеллекта. Для того, чтобы посмотреть видео, кликнете на соответствующее изображение 
+##Все видео созданы с помощью программ искусственного интеллекта. Для того, чтобы посмотреть видео, кликнете на соответствующее изображение 
 (All videos are created using artificial intelligence programs. To watch a video, click on the corresponding image)
 
 

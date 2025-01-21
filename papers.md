@@ -12,6 +12,9 @@
 [3. Statistical parameters of the antenna array’s radiation pattern in the presence of phase errors caused by the discretization of phase shifters, Journal of Radio Engineering and Electronics,1975, 4, pp.708-714](https://github.com/victenna/My-web/blob/main/Papers/3_Statistical%20parameters%20of%20the%20antenna.pdf)
 
 [4. Reconstruction of the amplitude and phase distribution of the field in the antenna array aperture using the modulation method, Journal of Radio Engineering and Electronics, 1976, 3, pp.616-620](https://github.com/victenna/My-web/blob/main/Papers/4_Reconstruction%20of%20the%20amplitude%20and%20phase%20distribution.pdf)
+
+[5. Simplified algorithms of radiation pattern design for digital antenna array, Telecommunications and Radio Engineering, 1991, pp.63-66](https://github.com/victenna/vrabinovich/blob/main/Papers/5_Simplified%20algorithms%20of%20radiation%20pattern.pdf)
+
  
 
 6. Simplified algorithms of radiation pattern design for digital antenna array, Telecommunications and Radio Engineering, 1991, pp.63-66

@@ -20,8 +20,8 @@
 
 [8.GPS, GSM and wireless LAN antenna for vehicle applications, US12/435.750, publication date 2012-01-17](
 
-[9.Antenna with remote control,US20080020723A1, publication date 2008-01-24](https://github.com/victenna/vrabinovich/blob/main/Patents/11_LIN%20bus.pdf)
+[9.Antenna with remote control,US20080020723A1, publication date 2008-01-24](
 
 [10.System and method for activating electromechanically systems using flexible intelligent radio frequency modules, CA2727846C, publication date 2009-06-05](https://github.com/victenna/vrabinovich/blob/main/Patents/10_System%20and%20method%20for%20activating.pdf)
 
-[11.LIN bus remote control system, US 8,334,758 B2, publication date 2012-18-12](
+[11.LIN bus remote control system, US 8,334,758 B2, publication date 2012-18-12](https://github.com/victenna/vrabinovich/blob/main/Patents/11_LIN%20bus.pdf)

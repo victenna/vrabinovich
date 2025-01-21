@@ -8,7 +8,7 @@
 
 [2.Device for measuring the amplitude-phase distribution of the field of a phased antenna array, patent #SU1552132A1 (Russian,1989)](https://github.com/victenna/vrabinovich/blob/main/Patents/2_Device.pdf)
 
-[3.Method for measuring the parameters of a phased antenna array, patent # SU1515125A1 (Russian,1987)](
+[3.Method for measuring the parameters of a phased antenna array, patent # SU1515125A1 (Russian,1987)](https://github.com/victenna/vrabinovich/blob/main/Patents/3_Russian3.pdf)
 
 [4.Device for measuring the parameters of a phased antenna array, patent # SU1318941A1(Russian,1985)](
 

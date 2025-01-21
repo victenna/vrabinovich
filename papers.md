@@ -17,20 +17,20 @@
 
 [6. Digital antenna array with non-identical parameters of receiving elements, Аntenna-waveguide technology and radio wave propagation,1990,7, pp.63-66](https://github.com/victenna/vrabinovich/blob/main/Papers/6_Digital%20antenna%20array.pdf)
 
-[7. Evaluation of the array field distribution based on the spectral characteristics of the elements, Antennas magazine,1990, 3, 23-28](
+[7. Evaluation of the array field distribution based on the spectral characteristics of the elements, Antennas magazine,1990, 3, 23-28](https://github.com/victenna/vrabinovich/blob/main/Papers/7_Spectral%20parameters%20of%20the%20array%20elements.pdf)
 
 [8. Small printed meander symmetrical and asymmetrical antenna performances, including the RF cable effect, in the 315 MHz frequency band, Microwave and optical technology letters, 2006, 9, pp. 1828-1833](
 
-[9. Compact Planar Antennas for Short-Range Wireless Automotive Communication, IEEE Transactions on vehicular technology, 2006, 4, pp. 1425-1435.](
+[9. Compact Planar Antennas for Short-Range Wireless Automotive Communication, IEEE Transactions on vehicular technology, 2006, 4, pp. 1425-1435.](https://github.com/victenna/vrabinovich/blob/main/Papers/8_Small%20printed%20meander.pdf)
 
-[10. An active receiving antenna for short-range wireless automotive communication, Microwave and optical technology letters, 2004, 4, pp. 293-297.](
+[10. An active receiving antenna for short-range wireless automotive communication, Microwave and optical technology letters, 2004, 4, pp. 293-297.](https://github.com/victenna/vrabinovich/blob/main/Papers/10_An%20active%20receiving%20antenna.pdf)
 
-[11. A signal and noise-measurement procedure](
+[11. A signal and noise-measurement procedure](https://github.com/victenna/vrabinovich/blob/main/Papers/11_signal%20and%20nise%20measurement%20procedure.pdf)
 
-[12. L-band active receiving antenna for automotive applications, Microwave and optical technology letters, 2003, 4, pp. 319-323.](
+[12. L-band active receiving antenna for automotive applications, Microwave and optical technology letters, 2003, 4, pp. 319-323.](https://github.com/victenna/vrabinovich/blob/main/Papers/12_L-band%20active%20receiving%20antenna.pdf)
 
-[13. Direction finding system for automotive applications using small phased antenna array, Microwave and optical technology letters, 2011, 10, pp. 2441-2446.](
+[13. Direction finding system for automotive applications using small phased antenna array, Microwave and optical technology letters, 2011, 10, pp. 2441-2446.](https://github.com/victenna/vrabinovich/blob/main/Papers/13_Direction%20finding%20system.pdf)
 
-[14. Compact Diversity Antenna System for Remote Control Automotive Applications, IEEE Transactions on vehicular technology, 2005, 5, pp. 379-382.](
+[14. Compact Diversity Antenna System for Remote Control Automotive Applications, IEEE Transactions on vehicular technology, 2005, 5, pp. 379-382.](https://github.com/victenna/vrabinovich/blob/main/Papers/14_Compact%20diversity%20antenna%20system.pdf)
 
 15. Three port multifunction printed antenna system for automotive application, 2010, Antennas propagation society international symposium IEEE.

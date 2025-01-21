@@ -21,6 +21,8 @@ Animation is a method in which statically displayed images on a screen are repla
 This book is designed for both educational and recreational purposes. Python, a text-based programming language, is ideally suited for children aged 10 and older. Within Python's standard library is the Turtle module, widely used to introduce programming concepts to kids. The Python Turtle library enables the creation of engaging animation projects. These projects can incorporate images sourced from the Internet, which are then scaled down and stored as GIF files for use in the projects. This book comprises 19 fundamental lessons that introduce Python through the Turtle library. Additionally, it includes a variety of projects showcasing different animations created with Turtle code, spanning games and applications related to mathematics, physics, and science. Below is a link where you can familiarize yourself with the content of all 19 lessons on learning the Turtle Python library. https://fliphtml5.com/adzq/dlop<br>
 
 
+![Cover of the Book](https://raw.githubusercontent.com/victenna/vrabinovich/main/Books/Image_6.png)
+
 
 
 

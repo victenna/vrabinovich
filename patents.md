@@ -10,7 +10,7 @@
 
 [3.Method for measuring the parameters of a phased antenna array, patent # SU1515125A1 (Russian,1987)](https://github.com/victenna/vrabinovich/blob/main/Patents/3_Russian3.pdf)
 
-[4.Device for measuring the parameters of a phased antenna array, patent # SU1318941A1(Russian,1985)](
+[4.Device for measuring the parameters of a phased antenna array, patent # SU1552132A1(Russian,1985)](https://github.com/victenna/vrabinovich/blob/main/Patents/2_Device.pdf)
 
 [5.Symmetrical printed meander dipole antenna, CA2699166C, publication date 2013-03-12](https://github.com/victenna/vrabinovich/blob/main/Patents/5_Symmetrical%20meander.pdf)
 
@@ -25,3 +25,5 @@
 [10.System and method for activating electromechanically systems using flexible intelligent radio frequency modules, CA2727846C, publication date 2009-06-05](https://github.com/victenna/vrabinovich/blob/main/Patents/10_System%20and%20method%20for%20activating.pdf)
 
 [11.LIN bus remote control system, US 8,334,758 B2, publication date 2012-18-12](https://github.com/victenna/vrabinovich/blob/main/Patents/11_LIN%20bus.pdf)
+
+

@@ -4,10 +4,11 @@
 
 https://github.com/victenna/vrabinovich/blob/main/Turtle/Image_t1.png
 
-![Cover of the Book](https://raw.githubusercontent.com/victenna/vrabinovich/main/Turtle/Image_t1.png)
-![Cover of the Book](https://raw.githubusercontent.com/victenna/vrabinovich/main/Turtle/Image_t2.png)
-![Cover of the Book](https://raw.githubusercontent.com/victenna/vrabinovich/main/Turtle/Image_t3.png)
-![Cover of the Book](https://raw.githubusercontent.com/victenna/vrabinovich/main/Turtle/Image_t4.png)
+![Cover of the Book](https://raw.githubusercontent.com/victenna/vrabinovich/main/Turtle/Image_tr1.png)
+![Cover of the Book](https://raw.githubusercontent.com/victenna/vrabinovich/main/Turtle/Image_tr2.png)
+![Cover of the Book](https://raw.githubusercontent.com/victenna/vrabinovich/main/Turtle/Image_tr3.png)
+![Cover of the Book](https://raw.githubusercontent.com/victenna/vrabinovich/main/Turtle/Image_tr4.png)
+![Cover of the Book](https://raw.githubusercontent.com/victenna/vrabinovich/main/Turtle/Image_tr5.png)
 
-![Cover of the Lessons](https://raw.githubusercontent.com/victenna/vrabinovich/main/Books/Image_1.png)
+
 

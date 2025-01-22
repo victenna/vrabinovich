@@ -1,6 +1,14 @@
-footer p a {
-    pointer-events: none; /* Disable clicking */
-    text-decoration: none; /* Optional: Remove underline */
-    color: inherit; /* Optional: Keep the text color consistent */
+footer p {
+    font-size: 14px; /* Example: Adjust text size */
+    color: gray; /* Example: Change text color */
+    text-align: center; /* Center the footer text */
 }
 
+footer {
+    margin-top: 20px; /* Add some space above the footer */
+}
+
+/* Optional: Hide the GitHub Pages footer if it's still showing */
+footer p {
+    display: none; /* Hide the default footer text */
+}

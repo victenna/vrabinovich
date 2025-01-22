@@ -34,3 +34,8 @@
 [14. Compact Diversity Antenna System for Remote Control Automotive Applications, IEEE Transactions on vehicular technology, 2005, 5, pp. 379-382.](https://github.com/victenna/vrabinovich/blob/main/Papers/14_Compact%20diversity%20antenna%20system.pdf)
 
 15. Three port multifunction printed antenna system for automotive application, 2010, Antennas propagation society international symposium IEEE.
+
+<!-- Custom Footer -->
+<footer>
+    <p>This site is open source. Improve this page.</p>
+</footer>

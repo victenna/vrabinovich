@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="style.css">
 
 ![Header Image](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Header.png)
 
@@ -35,9 +34,6 @@
 
 15. Three port multifunction printed antenna system for automotive application, 2010, Antennas propagation society international symposium IEEE.
 
-<footer>
-    <p>My custom footer content. No links here!</p>
-</footer>
 
 
 

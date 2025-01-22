@@ -12,14 +12,14 @@
 [![Cover of the Book](https://raw.githubusercontent.com/victenna/vrabinovich/main/Turtle/Image_tr8.png)](https://github.com/victenna/Turtle-Lessons/blob/main/Turtle-Lesson-8.pdf)
 [![Cover of the Book](https://raw.githubusercontent.com/victenna/vrabinovich/main/Turtle/Image_tr9.png)](https://github.com/victenna/Turtle-Lessons/blob/main/Turtle-Lesson-9.pdf)
 [![Cover of the Book](https://raw.githubusercontent.com/victenna/vrabinovich/main/Turtle/Image_tr10.png)](https://github.com/victenna/Turtle-Lessons/blob/main/Turtle-Lesson-10.pdf)
-[![Cover of the Book](https://raw.githubusercontent.com/victenna/vrabinovich/main/Turtle/Image_tr11.png)](
-[![Cover of the Book](https://raw.githubusercontent.com/victenna/vrabinovich/main/Turtle/Image_tr12.png)](
-[![Cover of the Book](https://raw.githubusercontent.com/victenna/vrabinovich/main/Turtle/Image_tr13.png)](
-[![Cover of the Book](https://raw.githubusercontent.com/victenna/vrabinovich/main/Turtle/Image_tr14.png)](
-[![Cover of the Book](https://raw.githubusercontent.com/victenna/vrabinovich/main/Turtle/Image_tr15.png)](
-[![Cover of the Book](https://raw.githubusercontent.com/victenna/vrabinovich/main/Turtle/Image_tr16.png)](
-[![Cover of the Book](https://raw.githubusercontent.com/victenna/vrabinovich/main/Turtle/Image_tr17.png)](
-[![Cover of the Book](https://raw.githubusercontent.com/victenna/vrabinovich/main/Turtle/Image_tr18.png)](
+[![Cover of the Book](https://raw.githubusercontent.com/victenna/vrabinovich/main/Turtle/Image_tr11.png)](https://github.com/victenna/Turtle-Lessons/blob/main/Turtle-Lesson-11.pdf)
+[![Cover of the Book](https://raw.githubusercontent.com/victenna/vrabinovich/main/Turtle/Image_tr12.png)](https://github.com/victenna/Turtle-Lessons/blob/main/Turtle-Lesson-12.pdf)
+[![Cover of the Book](https://raw.githubusercontent.com/victenna/vrabinovich/main/Turtle/Image_tr13.png)](https://github.com/victenna/Turtle-Lessons/blob/main/Turtle-Lesson-13.pdf)
+[![Cover of the Book](https://raw.githubusercontent.com/victenna/vrabinovich/main/Turtle/Image_tr14.png)](https://github.com/victenna/Turtle-Lessons/blob/main/Turtle-Lesson-14.pdf)
+[![Cover of the Book](https://raw.githubusercontent.com/victenna/vrabinovich/main/Turtle/Image_tr15.png)](https://github.com/victenna/Turtle-Lessons/blob/main/Turtle-Lesson-15.pdf)
+[![Cover of the Book](https://raw.githubusercontent.com/victenna/vrabinovich/main/Turtle/Image_tr16.png)](https://github.com/victenna/Turtle-Lessons/blob/main/Turtle-Lesson-16.pdf)
+[![Cover of the Book](https://raw.githubusercontent.com/victenna/vrabinovich/main/Turtle/Image_tr17.png)](https://github.com/victenna/Turtle-Lessons/blob/main/Turtle-Lesson-17.pdf)
+[![Cover of the Book](https://raw.githubusercontent.com/victenna/vrabinovich/main/Turtle/Image_tr18.png)](https://github.com/victenna/Turtle-Lessons/blob/main/Turtle-Lesson-18.pdf)
 
 
 

@@ -22,4 +22,8 @@
 ![Cover of the Book](https://raw.githubusercontent.com/victenna/vrabinovich/main/Turtle/Image_tr18.png)
 
 
+[![Image1](https://raw.githubusercontent.com/victenna/vrabinovich/main/Books/Image_tr1.png)](https://github.com/victenna/Turtle-Lessons/blob/main/Turtle-Lesson-1.pdf)
+
+
+
 

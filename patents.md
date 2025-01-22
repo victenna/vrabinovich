@@ -28,6 +28,6 @@
 
 [11.LIN bus remote control system, US 8,334,758 B2, publication date 2012-18-12](https://github.com/victenna/vrabinovich/blob/main/Patents/11_LIN%20bus.pdf)
 
-<link rel="stylesheet" href="style.css">
+
 
 

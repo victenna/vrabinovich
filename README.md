@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="style.css">
+
 ![Header Image](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Header.png)
 
 
@@ -17,5 +18,10 @@ Career Stages
 2. Since 1995, he has been working in North America, specializing in antenna design for automotive applications. He developed keyless entry antennas with a range of over 100 meters for Chrysler and GM. The antennas were implemented into mass production. During this time, he also developed a microstrip antenna for satellite radio applications and printed-on-glass car antennas for AM and FM radio applications. All antennas are protected by more than 10 patents, as well as by 7 articles in scientific and technical journals such as Microwave Letters and IEEE Antennas and Propagation. During his tenure, two books were prepared and published: 'Automotive Antenna Design and Applications' and 'Antenna Arrays and Automotive Applications'.
 
 3. In his retirement, Victor Rabinovich has been teaching children mathematics and the basics of Python programming. He created a website for children's programming education, pythonkidsgo.ca, which features over 60 practical Python projects using the Pygame library, as well as projects in Scratch. He has published books for children: "School Math Problems with Real-Life Applications," 2015, and "Python Lessons for Kids: Animation Projects with Turtle Graphics," 2021. Additionally, he manages a Facebook page titled "I like Scratch and Python coding."
+
+<footer>
+    <p>My custom footer content. No links here!</p>
+</footer>
+
 
 

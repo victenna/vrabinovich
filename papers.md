@@ -35,7 +35,9 @@
 
 15. Three port multifunction printed antenna system for automotive application, 2010, Antennas propagation society international symposium IEEE.
 
-<!-- Custom Footer -->
 <footer>
-    <p>This site is open source. Improve this page.</p>
+    <p>My custom footer content. No links here!</p>
 </footer>
+
+
+

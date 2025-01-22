@@ -1,14 +1,10 @@
-footer p {
-    font-size: 14px; /* Example: Adjust text size */
-    color: gray; /* Example: Change text color */
-    text-align: center; /* Center the footer text */
+/* Hide the "Improve this page" link */
+div#contrib-footer {
+    display: none !important;
 }
 
+/* Optionally, hide the entire footer */
 footer {
-    margin-top: 20px; /* Add some space above the footer */
+    display: none !important;
 }
 
-/* Optional: Hide the GitHub Pages footer if it's still showing */
-footer p {
-    display: none; /* Hide the default footer text */
-}

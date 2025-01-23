@@ -13,6 +13,15 @@
 [![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)](https://github.com/victenna/Harmonic-spring-oscillations)
 [![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)](https://github.com/victenna/Harmonic-spring-oscillations)
 
+[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg1.png)](https://gumlet.tv/watch/676585ee2fbe90b354c5d973/)
+[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg1.png)](https://gumlet.tv/watch/676585ee2fbe90b354c5d973/)
+[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg1.png)](https://gumlet.tv/watch/676585ee2fbe90b354c5d973/)
+[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg1.png)](https://gumlet.tv/watch/676585ee2fbe90b354c5d973/)
+[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)](https://github.com/victenna/Harmonic-spring-oscillations)
+[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)](https://github.com/victenna/Harmonic-spring-oscillations)
+[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)](https://github.com/victenna/Harmonic-spring-oscillations)
+[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)](https://github.com/victenna/Harmonic-spring-oscillations)
+
 
 
 

@@ -8,6 +8,7 @@
 [![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg4.png)](https://gumlet.tv/watch/676585eea080a6ad16f6270e/)
 
 [https://github.com/victenna/<br>Harmonic-spring-oscillations](https://github.com/victenna/Harmonic-spring-oscillations)
+[https://github.com/victenna/<br>Harmonic-spring-oscillations](https://github.com/victenna/Harmonic-spring-oscillations)
 
 
 

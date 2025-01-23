@@ -17,15 +17,14 @@
 [![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg6.png)](https://gumlet.tv/watch/676585eea080a6ad16f6271a/)
 [![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg7.png)](https://gumlet.tv/watch/67647814a080a6ad16ef0734/)
 [![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg8.png)](https://www.youtube.com/watch?v=z626gaauT-U)
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)](https://github.com/victenna/Harmonic-spring-oscillations)
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)](https://github.com/victenna/Harmonic-spring-oscillations)
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)](https://github.com/victenna/Harmonic-spring-oscillations)
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)](https://github.com/victenna/Harmonic-spring-oscillations)
+[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)](https://github.com/victenna/Equilibrium)
+[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)](https://github.com/victenna/Solar-System-Pygame)
+[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)](https://github.com/victenna/Lens-and-eye)
+[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)](https://github.com/victenna/Bicyclist)
 
-https://gumlet.tv/watch/67648e2f8f5e80dcc09e4ff5/
-https://gumlet.tv/watch/676585eea080a6ad16f6271a/
-https://gumlet.tv/watch/67647814a080a6ad16ef0734/
-https://www.youtube.com/watch?v=z626gaauT-U
+
+
+
 
 
 

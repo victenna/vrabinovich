@@ -31,19 +31,19 @@
 [![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)](https://github.com/victenna/Shadow-of-Man)
 [![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)](https://github.com/victenna/Ball-Rotation)
 
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg13.png)](https://gumlet.tv/watch/6764780fa080a6ad16ef06af/)
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg14.png)](https://gumlet.tv/watch/676585eea080a6ad16f62717/)
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg15.png)](https://gumlet.tv/watch/67648e2fa080a6ad16efab7d/)
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg16.png)](https://gumlet.tv/watch/6764780ca080a6ad16ef0655/)
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)](https://github.com/victenna/Car-Obstacles)
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)](https://github.com/victenna/Flight-with-rocket-pack/tree/main)
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)](https://github.com/victenna/Shadow-of-Man)
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)](https://github.com/victenna/Ball-Rotation)
+[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg13.png)](https://gumlet.tv/watch/67647815a080a6ad16ef073f/)
+[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg14.png)](https://gumlet.tv/watch/676598ea8f5e80dcc0a53ef4/)
+[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg15.png)](https://gumlet.tv/watch/676598ea8f5e80dcc0a53eec/)
+[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg16.png)](https://gumlet.tv/watch/676598ea2fbe90b354c64e38/)
+[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)]()
+[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)]()
+[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)]()
+[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)]()
 
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg17.png)]()
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg18.png)]()
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg19.png)]()
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg20.png)]()
+[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg17.png)](https://gumlet.tv/watch/676598ea2fbe90b354c64e30/)
+[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg18.png)](https://gumlet.tv/watch/676598eaa080a6ad16f6990c/)
+[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg19.png)](https://gumlet.tv/watch/676598ea2fbe90b354c64e32/)
+[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg20.png)](https://gumlet.tv/watch/676598ea2fbe90b354c64e38/)
 [![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)]()
 [![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)]()
 [![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)]()
@@ -60,6 +60,16 @@
 
 [![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg25.png)]()
 [![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)]()
+
+
+
+
+
+
+
+
+
+
 
 
 

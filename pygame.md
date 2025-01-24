@@ -4,15 +4,6 @@
 
 
 
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg1.png)](https://gumlet.tv/watch/676585ee2fbe90b354c5d973/)
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg2.png)](https://gumlet.tv/watch/676585ee8f5e80dcc0a4caec/)
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg3.png)](https://gumlet.tv/watch/676585ee8f5e80dcc0a4cae6/)
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg4.png)](https://gumlet.tv/watch/676585eea080a6ad16f6270e/)
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)](https://github.com/victenna/Harmonic-spring-oscillations)
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)](https://github.com/victenna/Harmonic-spring-oscillations)
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)](https://github.com/victenna/Harmonic-spring-oscillations)
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)](https://github.com/victenna/Harmonic-spring-oscillations)
-
 | [![Image1](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg1.png)](https://gumlet.tv/watch/676585ee2fbe90b354c5d973/) | [![Image2](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg2.png)](https://gumlet.tv/watch/676585ee8f5e80dcc0a4caec/)) | [![Image3](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg3.png)](https://gumlet.tv/watch/676585ee8f5e80dcc0a4cae6/) | [![Image4](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg4.png)](https://gumlet.tv/watch/676585eea080a6ad16f6270e/) |
 |----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
 | [Code text](https://github.com/victenna/Harmonic-spring-oscillations)                         | [Code text](https://github.com/victenna/Archimede-s-Law)                                                      | [Code text](https://github.com/victenna/Pascal-Law)                                                      | [Code text](https://github.com/victenna/Convex-Lens)                                                      |

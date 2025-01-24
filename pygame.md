@@ -28,15 +28,6 @@
 
 
 
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg17.png)](https://gumlet.tv/watch/676598ea2fbe90b354c64e30/)
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg18.png)](https://gumlet.tv/watch/676598eaa080a6ad16f6990c/)
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg19.png)](https://gumlet.tv/watch/676598ea2fbe90b354c64e32/)
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg20.png)](https://gumlet.tv/watch/676598ea2fbe90b354c64e38/)
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)](https://github.com/victenna/Hoop)
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)](https://github.com/victenna/Faraday-Law)
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)](https://github.com/victenna/Faradays-Law-of-induction)
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)](https://github.com/victenna/Polygons)
-
 [![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg21.png)]()
 [![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg22.png)]()
 [![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg23.png)]()

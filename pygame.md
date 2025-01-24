@@ -36,8 +36,7 @@
 
 
 
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg25.png)]()
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)]()
+
 
 
 

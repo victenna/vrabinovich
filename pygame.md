@@ -21,6 +21,12 @@
 | [Code text](https://github.com/victenna/Platformer)                         | [Code text](https://github.com/victenna/Eagle-and-Rabbits)                                                      | [Code text](https://github.com/victenna/Sliding-block)                                                      | [Code text](https://github.com/victenna/Rectangles-Rotation)                                                      |
 
 
+| [![Image17](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg17.png)](https://gumlet.tv/watch/676598ea2fbe90b354c64e30/) | [![Image18](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg18.png)](https://gumlet.tv/watch/676598eaa080a6ad16f6990c/) | [![Image19](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg19.png)](https://gumlet.tv/watch/676598ea2fbe90b354c64e32/) | [![Image20](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg20.png)](https://gumlet.tv/watch/676598ea2fbe90b354c64e38/) |
+|----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| [Code text](https://github.com/victenna/Hoop)                         | [Code text](https://github.com/victenna/Faraday-Law)                                                      | [Code text](https://github.com/victenna/aradays-Law-of-induction)                                                      | [Code text](https://github.com/victenna/Polygons)                                                      |
+
+
+
 
 [![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg17.png)](https://gumlet.tv/watch/676598ea2fbe90b354c64e30/)
 [![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg18.png)](https://gumlet.tv/watch/676598eaa080a6ad16f6990c/)

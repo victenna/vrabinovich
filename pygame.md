@@ -32,15 +32,6 @@
 
 
 
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg21.png)]()
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg22.png)]()
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg23.png)]()
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg24.png)]()
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)]()
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)]()
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)]()
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)]()
-
 [![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg25.png)]()
 [![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)]()
 

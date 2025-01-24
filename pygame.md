@@ -22,15 +22,6 @@
 
 
 
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg13.png)]()
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg14.png)](https://gumlet.tv/watch/676598ea8f5e80dcc0a53ef4/)
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg15.png)](https://gumlet.tv/watch/676598ea8f5e80dcc0a53eec/)
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg16.png)](https://gumlet.tv/watch/676598ea2fbe90b354c64e38/)
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)](https://github.com/victenna/)
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)](https://github.com/victenna/Eagle-and-Rabbits)
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)](https://github.com/victenna/Sliding-block)
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)](https://github.com/victenna/Rectangles-Rotation)
-
 [![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg17.png)](https://gumlet.tv/watch/676598ea2fbe90b354c64e30/)
 [![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg18.png)](https://gumlet.tv/watch/676598eaa080a6ad16f6990c/)
 [![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg19.png)](https://gumlet.tv/watch/676598ea2fbe90b354c64e32/)

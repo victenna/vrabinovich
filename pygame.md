@@ -13,6 +13,11 @@
 [![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)](https://github.com/victenna/Harmonic-spring-oscillations)
 [![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)](https://github.com/victenna/Harmonic-spring-oscillations)
 
+| [![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg1.png)](https://gumlet.tv/watch/676585ee2fbe90b354c5d973/) | [![Image 2](https://raw.githubusercontent.com/victenna/vrabinovich/main/Books/Image2.png)](https://github.com/victenna/Repo2) | [![Image 3](https://raw.githubusercontent.com/victenna/vrabinovich/main/Books/Image3.png)](https://github.com/victenna/Repo3) | [![Image 4](https://raw.githubusercontent.com/victenna/vrabinovich/main/Books/Image4.png)](https://github.com/victenna/Repo4) |
+|----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| [https://github.com/victenna/Harmonic-spring-oscillations](https://github.com/victenna/Harmonic-spring-oscillations)                         | [https://github.com/victenna/Repo2](https://github.com/victenna/Repo2)                                                      | [https://github.com/victenna/Repo3](https://github.com/victenna/Repo3)                                                      | [https://github.com/victenna/Repo4](https://github.com/victenna/Repo4)                                                      |
+
+
 [![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg5.png)](https://gumlet.tv/watch/67648e2f8f5e80dcc09e4ff5/)
 [![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg6.png)](https://gumlet.tv/watch/676585eea080a6ad16f6271a/)
 [![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg7.png)](https://gumlet.tv/watch/67647814a080a6ad16ef0734/)

@@ -16,12 +16,17 @@
 |----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
 | [Code text](https://github.com/victenna/Car-Obstacles)                         | [Code text](https://github.com/victenna/Flight-with-rocket-pack/tree/main)                                                      | [Code text](https://github.com/victenna/Shadow-of-Man)                                                      | [Code text](https://github.com/victenna/Ball-Rotation)                                                      |
 
+| [![Image13](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg13.png)](https://gumlet.tv/watch/67647815a080a6ad16ef073f/) | [![Image14](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg14.png)](https://gumlet.tv/watch/676598ea8f5e80dcc0a53ef4/) | [![Image15](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg15.png)](https://gumlet.tv/watch/676598ea8f5e80dcc0a53eec/) | [![Image16](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg16.png)](https://gumlet.tv/watch/676598ea2fbe90b354c64e38/) |
+|----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| [Code text](https://github.com/victenna/Platformer)                         | [Code text](https://github.com/victenna/Eagle-and-Rabbits)                                                      | [Code text](https://github.com/victenna/Sliding-block)                                                      | [Code text](https://github.com/victenna/Rectangles-Rotation)                                                      |
 
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg13.png)](https://gumlet.tv/watch/67647815a080a6ad16ef073f/)
+
+
+[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg13.png)]()
 [![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg14.png)](https://gumlet.tv/watch/676598ea8f5e80dcc0a53ef4/)
 [![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg15.png)](https://gumlet.tv/watch/676598ea8f5e80dcc0a53eec/)
 [![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/pg16.png)](https://gumlet.tv/watch/676598ea2fbe90b354c64e38/)
-[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)](https://github.com/victenna/Platformer)
+[![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)](https://github.com/victenna/)
 [![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)](https://github.com/victenna/Eagle-and-Rabbits)
 [![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)](https://github.com/victenna/Sliding-block)
 [![Pygame cover](https://raw.githubusercontent.com/victenna/vrabinovich/main/Pygame/bt.png)](https://github.com/victenna/Rectangles-Rotation)

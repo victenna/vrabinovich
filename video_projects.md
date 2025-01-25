@@ -18,8 +18,6 @@
 [![Winter](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Winter.png)](https://www.youtube.com/watch?v=hOwj09i0N50)
 
 
-https://github.com/victenna/vrabinovich/blob/main/Images/Winter.png
-https://www.youtube.com/watch?v=hOwj09i0N50
 
 
 

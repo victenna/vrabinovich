@@ -32,16 +32,6 @@
 
 
 
-https://github.com/victenna/vrabinovich/blob/main/Images/Panda.png
-https://github.com/victenna/vrabinovich/blob/main/Images/Pingvin.png
-https://github.com/victenna/vrabinovich/blob/main/Images/Popugai.png
-https://youtu.be/xw4OxW0IeWg             попугай
-https://youtu.be/aOKOdWtctOE   пингвины
-
-https://youtu.be/FxiWYmJPgOk   панды
-
-
-
 
 
 

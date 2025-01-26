@@ -26,15 +26,18 @@
 [![Medvedi](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Medvedi.png)](https://youtu.be/GAyMf_7d_ZI)
 [![Obeziana](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Obeziana.png)](https://youtu.be/dh0xXkzr9uM)
 [![Bobr](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Bobr.png)](https://youtu.be/cwrndGvP_mk)
+[![Panda](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Panda.png)](https://youtu.be/FxiWYmJPgOk)
+[![Pingvin](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Pingvin.png)](https://youtu.be/aOKOdWtctOEk)
+[![Popugai](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Popugai.png)](https://youtu.be/xw4OxW0IeWg)
 
 
-https://github.com/victenna/vrabinovich/blob/main/Images/Bobr.png
+
 https://github.com/victenna/vrabinovich/blob/main/Images/Panda.png
 https://github.com/victenna/vrabinovich/blob/main/Images/Pingvin.png
 https://github.com/victenna/vrabinovich/blob/main/Images/Popugai.png
 https://youtu.be/xw4OxW0IeWg             попугай
 https://youtu.be/aOKOdWtctOE   пингвины
-https://youtu.be/cwrndGvP_mk   бобры
+
 https://youtu.be/FxiWYmJPgOk   панды
 
 

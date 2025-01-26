@@ -21,6 +21,7 @@
 [![Flamingo](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Flamingo.png)](https://youtu.be/b9Q05NFj8Bw)
 [![Giraf](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Giraf.png)](https://youtu.be/IgxVY8zljCY)
 [![Gusi](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Gusi.png)](https://www.youtube.com/watch?v=8iO3QlLbyKM)
+[![Gusi](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Gusi.png)](https://youtu.be/JvA21lnXUZM)
 
 
 

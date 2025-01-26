@@ -22,7 +22,7 @@
 [![Giraf](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Giraf.png)](https://youtu.be/IgxVY8zljCY)
 
 
-[![Gusi](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Gusi.png](https://youtu.be/8iO3QlLbyKM)
+[![Gusi](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Gusi.png](https://www.youtube.com/watch?v=8iO3QlLbyKM)
 
 [![Winter](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Kenguru.png](https://youtu.be/JvA21lnXUZM)
 [![Winter](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Lev.png](https://youtu.be/L_NLAs4m1TE)

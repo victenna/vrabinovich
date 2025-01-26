@@ -20,8 +20,11 @@
 [![Winter](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Bobr.png)](https://youtu.be/cwrndGvP_mk)
 [![Winter](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Flamingo.png)](https://youtu.be/b9Q05NFj8Bw)
 [![Winter](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Giraf.png)](https://youtu.be/IgxVY8zljCY)
-[![Winter](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Gusi.png](https://youtu.be/8iO3QlLbyKM )
-[![Winter](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Kenguru.png](https://youtu.be/JvA21lnXUZM )
+
+
+[![Winter](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Gusi.png](https://youtu.be/8iO3QlLbyKM)
+
+[![Winter](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Kenguru.png](https://youtu.be/JvA21lnXUZM)
 [![Winter](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Lev.png](https://youtu.be/L_NLAs4m1TE)
 [![Winter](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Medvedi.png](https://youtu.be/GAyMf_7d_ZI)
 [![Winter](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Obeziana.png](https://youtu.be/dh0xXkzr9uM)

@@ -17,7 +17,20 @@
 [![School1](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/School.png)](https://www.youtube.com/watch?v=f46q5o1Kj88)
 [![Winter](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Winter.png)](https://www.youtube.com/watch?v=hOwj09i0N50)
 [![Winter](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/%D0%A2%D1%8E%D0%BB%D0%B5%D0%BD%D0%B8.png)](https://www.youtube.com/watch?v=4Kyqgo-sBHU)
-[![Winter](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/%D0%A2%D1%8E%D0%BB%D0%B5%D0%BD%D0%B8.png)](https://www.youtube.com/watch?v=4Kyqgo-sBHU)
+[![Winter](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Bobr.png)](https://youtu.be/cwrndGvP_mk)
+[![Winter](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Flamingo.png)](https://youtu.be/b9Q05NFj8Bw)
+[![Winter](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Giraf.png)](https://youtu.be/IgxVY8zljCY)
+[![Winter](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Gusi.png](https://youtu.be/8iO3QlLbyKM )
+[![Winter](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Kenguru.png](https://youtu.be/JvA21lnXUZM )
+[![Winter](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Lev.png](https://youtu.be/L_NLAs4m1TE)
+[![Winter](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Medvedi.png](https://youtu.be/GAyMf_7d_ZI)
+[![Winter](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Obeziana.png](https://youtu.be/dh0xXkzr9uM)
+
+
+
+
+
+
 
 
 
@@ -38,6 +51,19 @@ https://youtu.be/cwrndGvP_mk   бобры
 https://youtu.be/FxiWYmJPgOk   панды
 https://youtu.be/IgxVY8zljCY  жирафы
 https://youtu.be/L_NLAs4m1TE     львы
+
+
+
+
+
+
+
+
+https://github.com/victenna/vrabinovich/blob/main/Images/Obeziana.png
+https://github.com/victenna/vrabinovich/blob/main/Images/Panda.png
+https://github.com/victenna/vrabinovich/blob/main/Images/Pingvin.png
+https://github.com/victenna/vrabinovich/blob/main/Images/Popugai.png
+
 
 
 

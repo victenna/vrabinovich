@@ -23,18 +23,8 @@
 [![Gusi](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Gusi.png)](https://www.youtube.com/watch?v=8iO3QlLbyKM)
 [![Kenguru](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Kenguru.png)](https://youtu.be/JvA21lnXUZM)
 [![Lev](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Lev.png)](https://youtu.be/L_NLAs4m1TE)
-
 [![Medvedi](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Medvedi.png)](https://youtu.be/GAyMf_7d_ZI)
 [![Obeziana](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Obeziana.png)](https://youtu.be/dh0xXkzr9uM)
-
-
-
-
-
-
-[![Winter](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Medvedi.png](https://youtu.be/GAyMf_7d_ZI)
-[![Winter](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Obeziana.png](https://youtu.be/dh0xXkzr9uM)
-
 
 
 

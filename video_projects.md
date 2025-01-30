@@ -31,6 +31,13 @@
 [![Popugai](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Popugai.png)](https://youtu.be/xw4OxW0IeWg)
 
 [![Losi](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Losi.png)](https://youtu.be/xw4OxW0IeWg)
+[![Lisi](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Lisi.png)](https://youtu.be/xw4OxW0IeWg)
+[![Volki](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Volki.png)](https://youtu.be/xw4OxW0IeWg)
+[![Riba](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Riba.png)](https://youtu.be/xw4OxW0IeWg)
+
+
+
+
 
 
 

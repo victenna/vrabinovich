@@ -30,7 +30,7 @@
 [![Pingvin](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Pingvin.png)](https://youtu.be/aOKOdWtctOEk)
 [![Popugai](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Popugai.png)](https://youtu.be/xw4OxW0IeWg)
 
-[![Losi](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Losi.png)](https://youtu.be/xw4OxW0IeWg)
+[![Losi](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Losi.png)](https://www.youtube.com/watch?v=FRS5GuJLL_c)
 [![Lisi](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Lisi.png)](https://youtu.be/FRS5GuJLL_c )
 [![Volki](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Volki.png)](https://youtu.be/WcUUmUAupJs)
 [![Riba](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Riba.png)](https://youtu.be/xw4OxW0IeWg)
@@ -38,12 +38,6 @@
 [![Oleni](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Oleni.png)](https://youtu.be/ux-YeWMqxbU )
 
 
-https://youtu.be/EtQg83PHSEg  5
-https://youtu.be/brWUXCfh1Tc    2
-https://youtu.be/vzpqYHOGXBo  4
-https://youtu.be/WcUUmUAupJs  3
-https://youtu.be/FRS5GuJLL_c    1
-https://youtu.be/ux-YeWMqxbU    6
 
 
 

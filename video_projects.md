@@ -30,6 +30,8 @@
 [![Pingvin](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Pingvin.png)](https://youtu.be/aOKOdWtctOEk)
 [![Popugai](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Popugai.png)](https://youtu.be/xw4OxW0IeWg)
 
+[![Popugai](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Popugai.png)](https://youtu.be/xw4OxW0IeWg)
+
 
 
 

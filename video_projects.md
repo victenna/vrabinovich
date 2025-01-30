@@ -33,7 +33,7 @@
 [![Losi](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Losi.png)](https://www.youtube.com/watch?v=FRS5GuJLL_c)
 [![Lisi](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Lisi.png)](https://youtu.be/FRS5GuJLL_c )
 [![Volki](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Volki.png)](https://youtu.be/WcUUmUAupJs)
-[![Riba](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Riba.png)](https://youtu.be/xw4OxW0IeWg)
+[![Riba](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Riba.png)](https://youtu.be/vzpqYHOGXBo)
 [![Ptica](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Ptica.png)](https://youtu.be/EtQg83PHSEg)
 [![Oleni](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Oleni.png)](https://youtu.be/ux-YeWMqxbU )
 

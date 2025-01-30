@@ -29,7 +29,6 @@
 [![Panda](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Panda.png)](https://youtu.be/FxiWYmJPgOk)
 [![Pingvin](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Pingvin.png)](https://youtu.be/aOKOdWtctOEk)
 [![Popugai](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Popugai.png)](https://youtu.be/xw4OxW0IeWg)
-
 [![Losi](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Losi.png)](https://www.youtube.com/watch?v=FRS5GuJLL_c)
 [![Lisi](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Lisi.png)](https://youtu.be/brWUXCfh1Tc)
 [![Volki](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Volki.png)](https://youtu.be/WcUUmUAupJs)

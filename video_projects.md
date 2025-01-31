@@ -35,6 +35,8 @@
 [![Riba](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Riba.png)](https://youtu.be/vzpqYHOGXBo)
 [![Ptica](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Ptica.png)](https://youtu.be/EtQg83PHSEg)
 [![Oleni](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Oleni.png)](https://youtu.be/ux-YeWMqxbU )
+[![Cherepaxi](https://raw.githubusercontent.com/victenna/vrabinovich/main/Images/Cherepaxi.png)](https://youtu.be/_-EQYbKyBaY)
+
 
 
 
